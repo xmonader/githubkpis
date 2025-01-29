@@ -32,7 +32,7 @@ This Python project generates a detailed productivity report for a GitHub user i
 ---
 
 ## Prerequisites
-- **Python 3.6+**
+- **Python 3.11+**
 - **Dependencies**:
   - `PyGithub`: For GitHub API interactions.
   - `redis`: For caching.
