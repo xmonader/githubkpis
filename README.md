@@ -3,6 +3,7 @@
 ## Overview
 This Python project generates a detailed productivity report for a GitHub user in a specific repository. The report includes metrics for pull requests, issues, commits, and contributions over a specified time frame. It also estimates the time spent based on code changes and provides insights into the quality of commit messages.
 
+
 ---
 
 ## Features
@@ -94,3 +95,5 @@ The script generates a Markdown report in the format `<username>.<repo-name>.md`
 ## Logging
 All activities and errors are logged in `github_kpi.log`.
 
+
+> NOTE: this project is built with the help of AI technologies
